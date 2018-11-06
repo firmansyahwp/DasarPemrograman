@@ -1,2 +1,2 @@
-# DasarPemrograman
-PenjualanPulsa
+# Dasar Pemrograman
+Penjualan Pulsa
